@@ -3,5 +3,5 @@
 
 # Stack
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=CSharp&logoColor=black"/></a>&nbsp 
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=black"/></a>&nbsp 
 
