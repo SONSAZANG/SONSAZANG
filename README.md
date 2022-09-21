@@ -5,4 +5,3 @@
 <a href="https://sonsazang.notion.site/4d43a5971a754ec4a021de9d35a588bd" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5F5F5F?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="mailto:﻿kekekee257@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kekekee257@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SONSAZANG&show_icons=true&theme=radical)
